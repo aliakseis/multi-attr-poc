@@ -4,7 +4,7 @@
 #include <vector>
 
 
-enum { DIM = 32 * 2 };
+enum { DIM = 32 * 4 };
 
 typedef unsigned char AttributeType;
 
